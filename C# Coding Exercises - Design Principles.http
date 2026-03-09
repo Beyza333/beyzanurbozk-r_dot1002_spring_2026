@@ -1,6 +1,0 @@
-@C__Coding_Exercises___Design_Principles_HostAddress = http://localhost:5103
-
-GET {{C__Coding_Exercises___Design_Principles_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
